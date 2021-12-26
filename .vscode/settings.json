@@ -1,0 +1,9 @@
+{
+    /* Execução do ambiente virtual */
+    "python.pythonPath": "venv/bin/python",
+    /* Para que a execução seja no Terminal,
+    e não ocorra erros, no VScode. */
+    "code-runner.executorMap": {
+        "python": "venv/bin/python",
+    },
+}
