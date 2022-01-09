@@ -16,3 +16,10 @@ for elemento in inventario:
     print('Série.......: ', elemento[2])
     print('Departamento: ', elemento[3])
     print('---------------------------')
+
+buscar = input('Digite o nome do equipamento para buscá-lo: ')
+for elemente in inventario:
+    if buscar == elemento[0]:
+        print('Valor.......: ', elemento[1])
+        print('Série.......: ', elemento[2])
+        print('Departamento: ', elemento[3])
