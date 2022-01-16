@@ -1,7 +1,6 @@
 # PythonTraining
  Aprendendo Python
 
-<!-- 
 
 Configurações para otimizar o Python em seus projetos no Vscode, Sistema Linux Mint.
 Segundo Otávio Miranda, ótimo professor.
@@ -50,6 +49,4 @@ Segundo Otávio Miranda, ótimo professor.
         "bracket-pair-colorizer-2.depreciation-notice": false,
 
 
-    Agora pode seguir com o aprendizado e executar de forma mais tranquila o python no Vscode. Sistema Linux.
-
--->
+Agora pode seguir com o aprendizado e executar de forma mais tranquila o python no Vscode. Sistema Linux.
