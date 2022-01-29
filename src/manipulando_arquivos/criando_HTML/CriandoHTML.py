@@ -1,0 +1,11 @@
+with open('/home/migueltenorio/Documentos/PythonTraining/src/manipulando_arquivos/criando_HTML/index.html', 'w') as pagina:
+    pagina.write('<!DOCTYPE html>')
+    pagina.write('<html>')
+    pagina.write('<head>')
+    pagina.write('<meta charset="utf-8">')
+    pagina.write('<title>Primeira página criada com documento Python</title>')
+    pagina.write('</head>')
+    pagina.write('<body>')
+    pagina.write('<h1>Olá, deu tudo certo!')
+    pagina.write('</body>')
+    pagina.write('</html>')
